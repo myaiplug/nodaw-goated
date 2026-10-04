@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/split",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NoDAW Labs",
+      "hasCanvas": false,
+      "bodyTextLen": 911,
+      "bodyTextHash": "6112ab9fd69157ca7c47edb04766f1c83f220a1e816ba8b664ce46661ad6829a",
+      "bodyTextPrefix": "NoDAW LABS Liminal TrimIT ConvertIT TestIT FxIT CoProducer CHROM",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/split-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NoDAW Labs",
+      "hasCanvas": false,
+      "bodyTextLen": 894,
+      "bodyTextHash": "b5549408f596e6baed944460acce1deb00b7f1502913cb9044084b2c3b9b8ab6",
+      "bodyTextPrefix": "NoDAW LABS CHROMATIC NIHILISM · STEMSPLIT LIMINAL Three ONNX eng",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/split-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/split-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

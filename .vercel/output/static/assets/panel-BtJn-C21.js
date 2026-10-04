@@ -1,0 +1,1 @@
+import{r as e,t}from"./utils-sqwXXi6S.js";var n=e();function r({children:e,className:r}){return(0,n.jsx)(`div`,{className:t(`rounded-xl glass p-4 md:p-5`,r),children:e})}export{r as t};

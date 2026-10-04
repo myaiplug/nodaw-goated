@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/split",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NoDAW Labs",
+      "hasCanvas": false,
+      "bodyTextLen": 919,
+      "bodyTextHash": "bae9714750ecc2c2073fabd46f561e2d7bcfd5faf5371c61092e08b54d1eaf5b",
+      "bodyTextPrefix": "NoDAW LABS Sign in Liminal TrimIT ConvertIT TestIT FxIT CoProduc",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/split-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NoDAW Labs",
+      "hasCanvas": false,
+      "bodyTextLen": 902,
+      "bodyTextHash": "ab90df7aa82f317e4cd86993306ca1dc4cd58b6ab06d24ecc4bffbea80e0710e",
+      "bodyTextPrefix": "NoDAW LABS Sign in CHROMATIC NIHILISM · STEMSPLIT LIMINAL Three ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/split-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/split-smoke.json"
+}

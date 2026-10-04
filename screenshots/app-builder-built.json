@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NoDAW Labs",
+      "hasCanvas": false,
+      "bodyTextLen": 1203,
+      "bodyTextHash": "9b7cde53cb77ccce676af6df922f24549d167ebd2666786a024af01b5fc3e19c",
+      "bodyTextPrefix": "NoDAW LABS Liminal TrimIT ConvertIT TestIT FxIT CoProducer G R A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NoDAW Labs",
+      "hasCanvas": false,
+      "bodyTextLen": 1172,
+      "bodyTextHash": "9f2459dc30cae0379a67dc27df886a75a64cf5583b23959f11126ac437c12c67",
+      "bodyTextPrefix": "NoDAW LABS CHROMATIC NIHILISM // NEWTON ANTIGRAVITY NODAW LABS H",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
